@@ -5,7 +5,7 @@
   <li>Gehe zu den Einstellungen deines Android-Geräts.</li> 
   <li>Navigiere zu "Sicherheit" oder "Biometrie und Sicherheit", abhängig von deiner Android-Version.</li> 
   <li>Aktiviere die Option "Installation aus unbekannten Quellen". Dadurch wird die Installation von Apps ermöglicht, die nicht aus dem Google Play Store stammen.</li> 
-  <li>Lade die Sauspiel Fan-Client APK-Datei von Guthub herunter.</li> 
+  <li>Lade die <a href="https://github.com/Atomhoernchen87/Sauspiel-Fan-Client/releases/tag/game">Sauspiel Fan-Client APK-Datei von GitHub</a>  herunter.</li> 
   <li>Öffne die APK-Datei und folge den Anweisungen, um die Installation abzuschließen.</li> 
 </ol> 
 <h1>Hauptfunktionen</h1> 
